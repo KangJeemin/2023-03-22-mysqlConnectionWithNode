@@ -1,7 +1,6 @@
 {
   "name": "2023-03-22-mysqlconnectionwithnode",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,10 @@
   "bugs": {
     "url": "https://github.com/KangJeemin/2023-03-22-mysqlConnectionWithNode/issues"
   },
-  "homepage": "https://github.com/KangJeemin/2023-03-22-mysqlConnectionWithNode#readme"
+  "homepage": "https://github.com/KangJeemin/2023-03-22-mysqlConnectionWithNode#readme",
+  "description": "",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "type":"module"
 }
